@@ -1,15 +1,16 @@
 [submodule "eagle/biofeedback_2560_3V"]
 	path = eagle/biofeedback_2560_3V
-	url = git@github.com:mpflaga/eagle-biofeedback_2560_3V.git
+	url = https://github.com/mpflaga/eagle-biofeedback_2560_3V.git
 [submodule "Arduino/hardware/biofeedback-mega"]
 	path = Arduino/hardware/biofeedback-mega
-	url = git@github.com:mpflaga/biofeedback-mega.git
+	url = https://github.com/mpflaga/biofeedback-mega.git
 [submodule "arduino/libraries/BioFeedBack"]
 	path = arduino/libraries/BioFeedBack
-	url = git@github.com:mpflaga/Arduino-BioFeedBack.git
+	url = https://github.com/mpflaga/Arduino-BioFeedBack.git
 [submodule "arduino/libraries/Bounce"]
 	path = arduino/libraries/Bounce
-	url = git@github.com:mpflaga/Arduino-Bounce.git
+	url = https://github.com/mpflaga/Arduino-Bounce.git
 [submodule "arduino/libraries/digitalWriteFast"]
 	path = arduino/libraries/digitalWriteFast
-	url = git@github.com:mpflaga/Arduino-digitalWriteFast.git
+	url = https://github.com/mpflaga/Arduino-digitalWriteFast.git
+
