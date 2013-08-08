@@ -4,12 +4,12 @@
 [submodule "Arduino/hardware/biofeedback-mega"]
 	path = Arduino/hardware/biofeedback-mega
 	url = git@github.com:mpflaga/biofeedback-mega.git
-[submodule "arduino/libraries/BioFeedBack"]
-	path = arduino/libraries/BioFeedBack
+[submodule "Arduino/libraries/BioFeedBack"]
+	path = Arduino/libraries/BioFeedBack
 	url = git@github.com:mpflaga/Arduino-BioFeedBack.git
-[submodule "arduino/libraries/Bounce"]
-	path = arduino/libraries/Bounce
+[submodule "Arduino/libraries/Bounce"]
+	path = Arduino/libraries/Bounce
 	url = git@github.com:mpflaga/Arduino-Bounce.git
-[submodule "arduino/libraries/digitalWriteFast"]
-	path = arduino/libraries/digitalWriteFast
+[submodule "Arduino/libraries/digitalWriteFast"]
+	path = Arduino/libraries/digitalWriteFast
 	url = git@github.com:mpflaga/Arduino-digitalWriteFast.git
